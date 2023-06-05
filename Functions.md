@@ -4,7 +4,7 @@
 Returns a list of all the mailboxes belonging to a domain.
 
 ## getAliases(id)
-Fetch the alias `id`. If left empty it fetches all the aliases.
+Fetch the alias `id`. If left empty it fetches all the aliases on the server.
 
 ## getDomainAliases(mailbox)
 Fetch all the aliases for a specific mailbox.

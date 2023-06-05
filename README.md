@@ -12,7 +12,7 @@ The list of available [Functions](Functions.md):
 * [getBlacklist(domain)
 * [addBlacklist(domain, email)
 * [addBlacklistList(domain, emails)
-* [addAliasesFromHash(aliasHash)
+* [addAliasesFromHash(aliasHash)](Functions.md/#addAliasesFromHash)
 * [getDKIM(domain)
 
 
